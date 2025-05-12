@@ -6,11 +6,6 @@
   <!-- Shields.io Badges -->
   <img src="https://img.shields.io/badge/Made%20with-Love-F48FB1?style=flat-square&logo=heart" alt="made with love"/>
   <img src="https://img.shields.io/github/orgs/dev-kitchen/members?label=Team%20Members&style=flat-square&color=F4A261" alt="team members"/>
-  <img src="https://img.shields.io/github/last-commit/dev-kitchen/front-end?label=Last%20Commit&style=flat-square&color=90BE6D" alt="last commit"/>
-  <img src="https://img.shields.io/github/last-commit/dev-kitchen/api-gateway?label=Last%20Commit&style=flat-square&color=90BE6D" alt="last commit"/>
-  <img src="https://img.shields.io/github/last-commit/dev-kitchen/auth-service?label=Last%20Commit&style=flat-square&color=90BE6D" alt="last commit"/>
-  <img src="https://img.shields.io/github/last-commit/dev-kitchen/account-service?label=Last%20Commit&style=flat-square&color=90BE6D" alt="last commit"/>
-  <img src="https://img.shields.io/github/last-commit/dev-kitchen/common?label=Last%20Commit&style=flat-square&color=90BE6D" alt="last commit"/>
   <img src="https://img.shields.io/badge/Let's%20cook%20some%20code!-%F0%9F%8D%B3-orange?style=flat-square" alt="code kitchen"/>
 </div>
 
